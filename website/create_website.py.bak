@@ -28,7 +28,7 @@ call(["cp", "-r", images_path, deploy_path ])
 call(["cp", "-r", papers_path, deploy_path ])
 
 # run bibtex
-print("Running bibtex...")
+print "Running bibtex..."
 call(["bibtex2html", "-d", "-r", "--nodoc", bibtex_path + "allpapers.bib"])
 
 all_papers_file = open('allpapers.html', 'r')
@@ -58,7 +58,7 @@ call(["mv", "-f", "./allpapers_bib.html", deploy_path])
 html_string_files = glob.glob(html_path+"*.html") + glob.glob(html_path+"*.css")
 
 for html_string in html_string_files:
-    print("Processing file " + html_string)
+    print "Processing file " + html_string
     html_file = open(html_string, 'r')
     html_file_text = html_file.read()
     # Loop through Template path
@@ -66,7 +66,7 @@ for html_string in html_string_files:
         template_file = open(template_string, 'r')
         template_file_text = template_file.read()
         template_file_key  = "$" + os.path.split(template_string)[-1]
-        print("Applying template " + template_file_key)
+        print "Applying template " + template_file_key
         html_file_text = html_file_text.replace(template_file_key, template_file_text)
     
     deploy_html_string = deploy_path + os.path.split(html_string)[1]
