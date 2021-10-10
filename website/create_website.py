@@ -23,7 +23,7 @@ call(["mkdir", deploy_path ])
 
 # copy images to deploy
 call(["cp", "-r", images_path, deploy_path ])
-# copy paper 
+# copy paper
 
 call(["cp", "-r", papers_path, deploy_path ])
 
@@ -68,17 +68,17 @@ for html_string in html_string_files:
         template_file_key  = "$" + os.path.split(template_string)[-1]
         print("Applying template " + template_file_key)
         html_file_text = html_file_text.replace(template_file_key, template_file_text)
-    
+
     deploy_html_string = deploy_path + os.path.split(html_string)[1]
     #print deploy_html_string
     deploy_html_file = open(deploy_html_string, 'w')
     deploy_html_file.write(html_file_text)
     deploy_html_file.close()
-    
+
     #all_text = f.read()
     #print all_text
     #print os.path.splitext(name)[0]
-    
+
 
 # Blog stuff
 ################################################################################
@@ -105,6 +105,50 @@ deploy_blog_file.close()
 
 call(["rm", "-r", deploy_path + blog_name_pp ])
 
+#------------------------------------------------------------------
+
+
+blog_files = glob.glob(blog_path + "extensive_posts/"+"*.md")
+
+blog_files.sort()
+blog_files = blog_files[::-1]
+
+for blog_string in blog_files:
+    post_name_pp = "post-requires-pp.html"
+    blo_file = open(deploy_path+post_name_pp, 'r')
+    html_content = blo_file.read()
+    blo_file.close()
+    blog_file = open(blog_string, 'r')
+    blog_text = blog_file.read()
+
+
+    x = re.finditer("---", blog_text)
+    m = re.search("title", blog_text)
+    start = m.start()
+    t_lineno = blog_text.count('\n', 0, start)
+
+    for m in x:
+        start = m.start()
+        lineno = blog_text.count('\n', 0, start)
+    #print(lineno)
+    blog_text_line = blog_text.splitlines()
+    #print(blog_text_line[t_lineno])
+    title = blog_text_line[t_lineno].split("title:")[1].strip()[1:-1]
+    content = '\n'.join(blog_text_line[lineno+1:])
+
+
+    converted = markdown2.markdown(content)
+
+    html_content = html_content.replace("$content", converted)
+    html_content = html_content.replace("$title", title)
+    dep_file = os.path.basename(blog_string)
+
+    deploy_blog_file = open(deploy_path+dep_file[:-3] + ".html", 'w')
+    deploy_blog_file.write(html_content)
+    deploy_blog_file.close()
+
+#call(["rm", "-r", deploy_path + blog_name_pp ])
+
 
 ################################################################################
 
@@ -128,5 +172,3 @@ deploy_links_file.close()
 
 
 call(["rm", "-r", deploy_path + links_name_pp ])
-
-   
