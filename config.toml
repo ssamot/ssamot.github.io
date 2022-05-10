@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "www.ssamot.me/"
 languageCode = "en-uk"
 theme = "archie"
 paginate = 5
