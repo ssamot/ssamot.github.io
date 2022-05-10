@@ -1,11 +1,15 @@
 <footer>
-  
-  <div style="display:flex"><a class="soc" href="https://twitter.com/spysamot/" title="Twitter"><i data-feather="twitter"></i></a><a class="soc" href="https://github.com/ssamot/" title="GitHub"><i data-feather="github"></i></a></div>
-    <div class="footer-info">
-      <a href="https://gohugo.io">Hugo</a>/<a
-        href="https://github.com/athul/archie">Archie</a> |
-      2022
-    </div>
+  <div class="footer-info">
+    {{- range $index, $key := .Site.Params.Social -}}
+    <!-- <a class="soc" href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a> -->
+    <a href="{{ $key.url }}">{{ $key.name }}</a>
+    {{- end -}}
+&nbsp|| based on 
+
+    <a href="https://gohugo.io">Hugo</a>/<a
+      href="https://github.com/athul/archie">Archie</a> |
+    {{ dateFormat "2006" now }} {{ with .Site.Copyright }} {{ . }} | {{ end }}
+  </div>
 </footer>
 {{ if not .Site.IsServer }}
 {{ template "_internal/google_analytics_async.html" . }}
