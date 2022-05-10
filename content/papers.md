@@ -1,5 +1,5 @@
 ---
-title: "papers"
+title: "Papers"
 layout: staticpage
 hide_date: True
 ---
