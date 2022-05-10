@@ -8,6 +8,7 @@ paginate = 5
   ## Archie theme
   mode="dark"
 
+  favicon = "final_logo2.png"
 
   [[params.social]]
   name = "Twitter"
@@ -18,6 +19,7 @@ paginate = 5
   name = "GitHub"
   icon = "github"
   url = "https://github.com/ssamot/"
+
 
 
 
