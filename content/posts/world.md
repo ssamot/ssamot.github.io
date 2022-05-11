@@ -5,7 +5,6 @@ author = ""
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["Christianity", "artificial intelligence", "prophecy"]
-keywords = ["23", "sdf"]
 description = "My current thoughts on where we are..."
 showFullContent = false
 readingTime = false
