@@ -84,11 +84,11 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "ssamot's website"
+    title = "ssamot's heretical rumblings"
     subtitle = "Heresiology"
     owner = "Spyros Samothrakis"
     keywords = ""
-    copyright = ""
+    copyright = "Spyros Samothrakis"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
