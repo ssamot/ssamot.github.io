@@ -85,8 +85,8 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "ssamot's website"
-    subtitle = ""
-    owner = ""
+    subtitle = "Heresiology"
+    owner = "Spyros Samothrakis"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
