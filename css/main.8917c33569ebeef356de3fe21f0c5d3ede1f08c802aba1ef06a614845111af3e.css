@@ -80,6 +80,23 @@ figure {
 
 figure img {
   max-height: 500px;
+  border: 0px
+}
+
+figure.floatright {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: right;
+  border: 0px
+}
+
+figure.floatleft {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+  border: 0px
 }
 
 @media screen and (min-width: 600px) {
