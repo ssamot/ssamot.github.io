@@ -1,4 +1,17 @@
 <header>
+	{{ if .Params.math }}{{ partial "helpers/katex.html" . }}{{ end }}
+	{{ if .Params.math }}
+		<script>
+		    document.addEventListener("DOMContentLoaded", function() {
+		        renderMathInElement(document.body, {
+		            delimiters: [
+		                {left: "$$", right: "$$", display: true},
+		                {left: "$", right: "$", display: false}
+		            ]
+		        });
+		    });
+		</script>
+	{{ end }}
 	<div class="main">
 		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
 	</div>
