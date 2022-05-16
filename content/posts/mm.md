@@ -1,5 +1,5 @@
 +++
-title = "Measures and Fairness"
+title = "Measures and fairness"
 date = "2022-05-16T06:58:18+01:00"
 author = "ssamot"
 tags = ["Measures", "Fairness"]
