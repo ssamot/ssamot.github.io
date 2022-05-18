@@ -11,3 +11,5 @@ Early in my career, over a break, I approached a co-worker of mine and complaine
 
 
 I still think of Russell's essay on labour as a blueprint for the good society (including his pitch for a 4-hour workday). It stood the test of time quite well; I'll try to "modernise" it an other post.
+
+PS. Following writing this, I realised it's Bertrand Russell's birthday today (18 May 1872)!
