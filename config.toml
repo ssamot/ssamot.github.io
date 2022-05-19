@@ -3,6 +3,9 @@ languageCode = "en-uk"
 theme = "archie"
 paginate = 5
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 
   ## Archie theme
