@@ -6,7 +6,6 @@ hide_date: True
 
 You can find most of my (academic) publications under my [Google scholar profile](https://scholar.google.com/citations?user=6qhmeekAAAAJ&hl=en&oi=ao).
 
-
 <!-- This document was automatically generated with bibtex2html 1.99
      (see http://www.lri.fr/~filliatr/bibtex2html/),
      with the following command:
@@ -30,7 +29,20 @@ Michael Fairbank, Spyridon Samothrakis, and Luca Citi.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2021artificial">2</a>]
+[<a name="machlanski2022undersmoothing">2</a>]
+</td>
+<td class="bibtexitem">
+Damian Machlanski, Spyridon Samothrakis, and Paul Clarke.
+ Undersmoothing causal estimators with generative trees.
+ <em>arXiv preprint arXiv:2203.08570</em>, 2022.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="samothrakis2021artificial">3</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis.
@@ -44,7 +56,7 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="dwivedi2021artificial">3</a>]
+[<a name="dwivedi2021artificial">4</a>]
 </td>
 <td class="bibtexitem">
 Yogesh&nbsp;K Dwivedi, Laurie Hughes, Elvira Ismagilova, Gert Aarts, Crispin Coombs,
@@ -61,7 +73,7 @@ Yogesh&nbsp;K Dwivedi, Laurie Hughes, Elvira Ismagilova, Gert Aarts, Crispin Coo
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="quteineh2020textual">4</a>]
+[<a name="quteineh2020textual">5</a>]
 </td>
 <td class="bibtexitem">
 Husam Quteineh, Spyridon Samothrakis, and Richard Sutcliffe.
@@ -77,7 +89,7 @@ Husam Quteineh, Spyridon Samothrakis, and Richard Sutcliffe.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="hernandez2020comparison">5</a>]
+[<a name="hernandez2020comparison">6</a>]
 </td>
 <td class="bibtexitem">
 Daniel Hernandez, Kevin Denamganai, Sam Devlin, Spyridon Samothrakis, and
@@ -91,7 +103,7 @@ Daniel Hernandez, Kevin Denamganai, Sam Devlin, Spyridon Samothrakis, and
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2020open">6</a>]
+[<a name="samothrakis2020open">7</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis.
@@ -104,7 +116,7 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="salge2020applications">7</a>]
+[<a name="salge2020applications">8</a>]
 </td>
 <td class="bibtexitem">
 Christoph Salge, Emily Short, Mike Preuss, Spyridon Samothrakis, and Pieter
@@ -120,7 +132,7 @@ Christoph Salge, Emily Short, Mike Preuss, Spyridon Samothrakis, and Pieter
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="hernandez2019generalized">8</a>]
+[<a name="hernandez2019generalized">9</a>]
 </td>
 <td class="bibtexitem">
 Daniel Hernandez, Kevin Denamgana&iuml;, Yuan Gao, Peter York, Sam Devlin,
@@ -134,7 +146,7 @@ Daniel Hernandez, Kevin Denamgana&iuml;, Yuan Gao, Peter York, Sam Devlin,
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="raza2019bagging">9</a>]
+[<a name="raza2019bagging">10</a>]
 </td>
 <td class="bibtexitem">
 Haider Raza and Spyridon Samothrakis.
@@ -149,7 +161,7 @@ Haider Raza and Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="alshahrani2019identifying">10</a>]
+[<a name="alshahrani2019identifying">11</a>]
 </td>
 <td class="bibtexitem">
 Mohammed Alshahrani, Spyridon Samothrakis, and Maria Fasli.
@@ -163,7 +175,7 @@ Mohammed Alshahrani, Spyridon Samothrakis, and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2019training">11</a>]
+[<a name="samothrakis2019training">12</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Diego Perez, and Simon Lucas.
@@ -178,7 +190,7 @@ Spyridon Samothrakis, Diego Perez, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="thue2018backstory">12</a>]
+[<a name="thue2018backstory">13</a>]
 </td>
 <td class="bibtexitem">
 David Thue, Mirjam&nbsp;Palosaari Eladhari, Joshua&nbsp;Allen McCoy, Mike Preu&szlig;,
@@ -194,7 +206,7 @@ David Thue, Mirjam&nbsp;Palosaari Eladhari, Joshua&nbsp;Allen McCoy, Mike Preu&s
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2018kathryn">13</a>]
+[<a name="samothrakis2018kathryn">14</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis.
@@ -209,7 +221,7 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2018artificial">14</a>]
+[<a name="samothrakis2018artificial">15</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis.
@@ -222,7 +234,7 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="alshahrani2017word">15</a>]
+[<a name="alshahrani2017word">16</a>]
 </td>
 <td class="bibtexitem">
 Mohammed Alshahrani, Spyridon Samothrakis, and Maria Fasli.
@@ -236,7 +248,7 @@ Mohammed Alshahrani, Spyridon Samothrakis, and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="vodopivec2017monte">16</a>]
+[<a name="vodopivec2017monte">17</a>]
 </td>
 <td class="bibtexitem">
 Tom Vodopivec, Spyridon Samothrakis, and Branko Ster.
@@ -249,7 +261,7 @@ Tom Vodopivec, Spyridon Samothrakis, and Branko Ster.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2017convolutional">17</a>]
+[<a name="samothrakis2017convolutional">18</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Tom Vodopivec, Michael Fairbank, and Maria Fasli.
@@ -264,7 +276,7 @@ Spyridon Samothrakis, Tom Vodopivec, Michael Fairbank, and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2017default">18</a>]
+[<a name="samothrakis2017default">19</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Maria Fasli, Diego Perez, and Simon Lucas.
@@ -278,7 +290,7 @@ Spyridon Samothrakis, Maria Fasli, Diego Perez, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2016analyzing">19</a>]
+[<a name="perez2016analyzing">20</a>]
 </td>
 <td class="bibtexitem">
 Diego P&eacute;rez-Li&eacute;bana, Spyridon Samothrakis, Julian Togelius, Tom Schaul,
@@ -293,7 +305,7 @@ Diego P&eacute;rez-Li&eacute;bana, Spyridon Samothrakis, Julian Togelius, Tom Sc
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakisnarrative">20</a>]
+[<a name="samothrakisnarrative">21</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis.
@@ -306,7 +318,7 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2016match">21</a>]
+[<a name="samothrakis2016match">22</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Tom Vodopivec, Maria Fasli, and Michael Fairbank.
@@ -320,7 +332,7 @@ Spyridon Samothrakis, Tom Vodopivec, Maria Fasli, and Michael Fairbank.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2016general">22</a>]
+[<a name="perez2016general">23</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez-Liebana, Spyridon Samothrakis, Julian Togelius, Tom Schaul, and
@@ -334,7 +346,7 @@ Diego Perez-Liebana, Spyridon Samothrakis, Julian Togelius, Tom Schaul, and
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="pavia2015algorithms">23</a>]
+[<a name="pavia2015algorithms">24</a>]
 </td>
 <td class="bibtexitem">
 A&nbsp;Pavia, S&nbsp;Samothrakis, T&nbsp;Schaul, N&nbsp;Shaker, Moshe Sipper, J&nbsp;Togelius,
@@ -350,7 +362,7 @@ A&nbsp;Pavia, S&nbsp;Samothrakis, T&nbsp;Schaul, N&nbsp;Shaker, Moshe Sipper, J&
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2015emotional">24</a>]
+[<a name="samothrakis2015emotional">25</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis and Maria Fasli.
@@ -363,7 +375,7 @@ Spyridon Samothrakis and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2015neuroevolution">25</a>]
+[<a name="samothrakis2015neuroevolution">26</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Diego Perez-Liebana, Simon&nbsp;M Lucas, and Maria Fasli.
@@ -377,7 +389,7 @@ Spyridon Samothrakis, Diego Perez-Liebana, Simon&nbsp;M Lucas, and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez20152014">26</a>]
+[<a name="perez20152014">27</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez-Liebana, Spyridon Samothrakis, Julian Togelius, Tom Schaul, Simon&nbsp;M
@@ -392,7 +404,7 @@ Diego Perez-Liebana, Spyridon Samothrakis, Julian Togelius, Tom Schaul, Simon&nb
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2014gvg">27</a>]
+[<a name="perez2014gvg">28</a>]
 </td>
 <td class="bibtexitem">
 D&nbsp;Perez, S&nbsp;Samothrakis, J&nbsp;Togelius, T&nbsp;Schaul, and S&nbsp;Lucas.
@@ -404,7 +416,7 @@ D&nbsp;Perez, S&nbsp;Samothrakis, J&nbsp;Togelius, T&nbsp;Schaul, and S&nbsp;Luc
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2014rolling">28</a>]
+[<a name="samothrakis2014rolling">29</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Samuel&nbsp;A Roberts, Diego Perez, and Simon&nbsp;M Lucas.
@@ -418,7 +430,7 @@ Spyridon Samothrakis, Samuel&nbsp;A Roberts, Diego Perez, and Simon&nbsp;M Lucas
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2014multiobjective">29</a>]
+[<a name="perez2014multiobjective">30</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Sanaz Mostaghim, Spyridon Samothrakis, and Simon&nbsp;M Lucas.
@@ -432,7 +444,7 @@ Diego Perez, Sanaz Mostaghim, Spyridon Samothrakis, and Simon&nbsp;M Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2014knowledge">30</a>]
+[<a name="perez2014knowledge">31</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Spyridon Samothrakis, and Simon Lucas.
@@ -447,7 +459,7 @@ Diego Perez, Spyridon Samothrakis, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2014predicting">31</a>]
+[<a name="samothrakis2014predicting">32</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Diego Perez, Simon&nbsp;M Lucas, and Philipp Rohlfshagen.
@@ -461,7 +473,7 @@ Spyridon Samothrakis, Diego Perez, Simon&nbsp;M Lucas, and Philipp Rohlfshagen.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2014methods">32</a>]
+[<a name="samothrakis2014methods">33</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis.
@@ -474,7 +486,7 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez20142013">33</a>]
+[<a name="perez20142013">34</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Edward Powley, Daniel Whitehouse, Spyridon Samothrakis, Simon
@@ -490,7 +502,7 @@ Diego Perez, Edward Powley, Daniel Whitehouse, Spyridon Samothrakis, Simon
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="lucas2014fast">34</a>]
+[<a name="lucas2014fast">35</a>]
 </td>
 <td class="bibtexitem">
 Simon&nbsp;M Lucas, Spyridon Samothrakis, and Diego Perez.
@@ -504,7 +516,7 @@ Simon&nbsp;M Lucas, Spyridon Samothrakis, and Diego Perez.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2013automated">35</a>]
+[<a name="perez2013automated">36</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Julian Togelius, Spyridon Samothrakis, Philipp Rohlfshagen, and
@@ -519,7 +531,7 @@ Diego Perez, Julian Togelius, Spyridon Samothrakis, Philipp Rohlfshagen, and
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2013online">36</a>]
+[<a name="perez2013online">37</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Spyridon Samothrakis, and Simon Lucas.
@@ -534,7 +546,7 @@ Diego Perez, Spyridon Samothrakis, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2013rolling">37</a>]
+[<a name="perez2013rolling">38</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Spyridon Samothrakis, Simon Lucas, and Philipp Rohlfshagen.
@@ -549,7 +561,7 @@ Diego Perez, Spyridon Samothrakis, Simon Lucas, and Philipp Rohlfshagen.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2013solving">38</a>]
+[<a name="perez2013solving">39</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Edward&nbsp;J Powley, Daniel Whitehouse, Philipp Rohlfshagen, Spyridon
@@ -565,7 +577,7 @@ Diego Perez, Edward&nbsp;J Powley, Daniel Whitehouse, Philipp Rohlfshagen, Spyri
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="ashlock2012competition">39</a>]
+[<a name="ashlock2012competition">40</a>]
 </td>
 <td class="bibtexitem">
 Daniel Ashlock, Wendy Ashlock, Spyridon Samothrakis, Simon Lucas, and Colin
@@ -580,7 +592,7 @@ Daniel Ashlock, Wendy Ashlock, Spyridon Samothrakis, Simon Lucas, and Colin
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="friston2012active">40</a>]
+[<a name="friston2012active">41</a>]
 </td>
 <td class="bibtexitem">
 Karl Friston, Spyridon Samothrakis, and Read Montague.
@@ -593,7 +605,7 @@ Karl Friston, Spyridon Samothrakis, and Read Montague.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2012coevolving">41</a>]
+[<a name="samothrakis2012coevolving">42</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Simon Lucas, ThomasPhilip Runarsson, and David Robles.
@@ -608,7 +620,7 @@ Spyridon Samothrakis, Simon Lucas, ThomasPhilip Runarsson, and David Robles.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="browne2012survey">42</a>]
+[<a name="browne2012survey">43</a>]
 </td>
 <td class="bibtexitem">
 Cameron&nbsp;B Browne, Edward Powley, Daniel Whitehouse, Simon&nbsp;M Lucas, Peter&nbsp;I
@@ -624,7 +636,7 @@ Cameron&nbsp;B Browne, Edward Powley, Daniel Whitehouse, Simon&nbsp;M Lucas, Pet
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2011approximating">43</a>]
+[<a name="samothrakis2011approximating">44</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis and Simon Lucas.
@@ -639,7 +651,7 @@ Spyridon Samothrakis and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2011fast">44</a>]
+[<a name="samothrakis2011fast">45</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, David Robles, and Simon Lucas.
@@ -653,7 +665,7 @@ Spyridon Samothrakis, David Robles, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2010planning">45</a>]
+[<a name="samothrakis2010planning">46</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis and Simon&nbsp;M Lucas.
@@ -667,7 +679,7 @@ Spyridon Samothrakis and Simon&nbsp;M Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2010uct">46</a>]
+[<a name="samothrakis2010uct">47</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, David Robles, and Simon&nbsp;M Lucas.
