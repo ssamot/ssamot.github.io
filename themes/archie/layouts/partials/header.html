@@ -68,7 +68,7 @@
  <script data-goatcounter="https://ssamot.goatcounter.com/count"
          async src="//gc.zgo.at/count.js"></script>
  <noscript>
-     <img src="https://ssamot.goatcounter.com/count?p=/{{ .Section}}/{{.Page.File.BaseFileName }}">
+     <img src="https://ssamot.goatcounter.com/count?p=/{{ .Section}}/{{ with .File }}{{ .BaseFileName }}{{ end }}">
  </noscript>
 
 </head>
