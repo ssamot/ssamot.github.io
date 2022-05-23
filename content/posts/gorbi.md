@@ -1,6 +1,6 @@
 +++
 title = "Observational data and politics"
-date = "2022-05-22T11:18:25+01:00"
+date = "2022-05-23T11:18:25+01:00"
 author = "ssamot"
 tags = ["USSR"]
 description = "Mr. Gorbachev, tear down this wall..."
