@@ -6,7 +6,7 @@ tags = ["Socialism"]
 description = "Social democratic demands from long ago"
 +++
 
-I've been reading [Mike Macnair's Revolutionary Strategy: Marxism and the challenge of left unity](https://www.goodreads.com/book/show/8033846-revolutionary-strategy), and it occurred to me there is a whole world out there of ideas and topics that could be helped by more formal analysis, and by that I mean a more rigorous approach to quantify the outcomes of each topic, the parameters that would go in it and the debates what it would spark. As a start, one can take the [the erfurt programme](https://www.marxists.org/history/international/social-democracy/1891/erfurt-program.htm) and start doing a formal/data science analysis on each constituent part of the programme. I've broken down the programme demands into categories and re-organised them so as as to make each demand more specific and explicit. Next to each demand I have included a relevant research question, plus whether or not the demand is currently met in the "broader" west.
+I've been reading [Mike Macnair's Revolutionary Strategy: Marxism and the challenge of left unity](https://www.goodreads.com/book/show/8033846-revolutionary-strategy), and it occurred to me there is a whole world out there of ideas and topics that could be helped by more formal analysis, and by that I mean a more rigorous approach to quantify the outcomes of each topic, the parameters that would go in it and the debates that it would spark. As a start, one can take the [the erfurt programme](https://www.marxists.org/history/international/social-democracy/1891/erfurt-program.htm) and start doing a formal/data science analysis on each constituent part of the programme. I've broken down the programme demands into categories and re-organised them so as as to make each demand more specific and explicit. Next to each demand I have included a relevant research question, plus whether or not the demand is currently met in the "broader" west.
 
 As one might expect, the first set of demands is around universal suffrage:
 
@@ -16,7 +16,7 @@ Suffrage demands | Research question | Currently in place |
 |Proportional representation, and, until this is introduced, legal redistribution of electoral districts after every census. | What kind of voting system? | <span style="color:red"> no </span> |
 |Two-year legislative periods. Holding of elections on a legal holiday. | What is the optimal assembly/parliament timespan? | <span style="color:red"> no </span> |
 |Compensation for elected representatives. | What is the appropriate salary for representatives? | <span style="color:green"> yes </span> |
-|Suspension of every restriction on political rights, except in the case of legal incapacity. | When is it appropriate to lose those rights? | <span style="color:red"> no </span> |
+|Suspension of every restriction on political rights, except in the case of legal incapacity. | When is it appropriate to lose these rights? | <span style="color:red"> no </span> |
 |Direct legislation by the people through the rights of proposal and rejection. | What is the exact mechanism for law introduction/voting? | <span style="color:red"> no </span> |
 |Self-determination and self-government of the people in Reich, state, province, and municipality. | What is the best subdivision for representation? | <span style="color:red"> no </span> |
 
@@ -54,7 +54,7 @@ The fifth group of demands is around freedom of religion. I think they have been
 
 Religious demands | Research question | Currently in place |
 | ----------- | ----------- |----------- |
-|Declaration that religion is a private matter. | What is the take of proselytising? | <span style="color:green"> yes </span> |
+|Declaration that religion is a private matter. | What should be our take on proselytising? | <span style="color:green"> yes </span> |
 |Abolition of all expenditures from public funds for ecclesiastical and religious purposes. | Can they be voted back in?  | <span style="color:green"> yes </span> |
 |Ecclesiastical and religious communities are to be regarded as private associations that regulate their affairs entirely autonomously. | Should they be tax-exempt? | <span style="color:green"> yes </span> |
 
@@ -63,7 +63,7 @@ The sixth set of demands is around education:
 Educational demands | Research question | Currently in place |
 | ----------- | ----------- |----------- |
 |Secularization of schools. Compulsory attendance at the public Volksschule [extended elementary school]. | How long should compulsory schooling last? | <span style="color:green"> yes </span> |
-| Free education, free educational materials, and free meals in the public Volksschulen, as well as at higher educational institutions for those boys and girls considered qualified for further education by virtue of their abilities.| What is the role of online courses? | <span style="color:red"> no </span> |
+| Free education, free educational materials, and free meals in the public Volksschulen, as well as at higher educational institutions for those boys and girls considered qualified for further education by virtue of their abilities.| What is the role of online courses (and more broadly, automation technology)? | <span style="color:red"> no </span> |
 
 
 The seventh set of demands is around health and insurance -- note here that these vary widely from country to country, so not clear how to answer the questions.
@@ -95,7 +95,7 @@ Worker demands | Research question | Currently in place |
 |Legal equality of agricultural laborers and domestic servants with industrial workers; abolition of the laws governing domestics. | Not sure | <span style="color:green"> yes </span> |
 
 
-Overall, there are 36 programmatic demands (if I've managed to count them right), the vast majority of them have not been addressed since the programme was first released (in 1891). In future posts I will address each group of demands in more detail, complement the demands and setup adversaries, i.e. what lobby groups would be against them.
+Overall, there are 36 programmatic demands (if I've managed to count them right), the vast majority of which have not been addressed since the programme was first released (in 1891). In future posts I will address each group of demands in more detail, complement the demands and setup adversaries, i.e. what lobby groups would be against them.
 
 
 <!-- | Civil servants salary is the workers' average      | No       |Title       |
