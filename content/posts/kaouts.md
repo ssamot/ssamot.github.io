@@ -95,7 +95,7 @@ Worker demands | Research question | Currently in place |
 |Legal equality of agricultural laborers and domestic servants with industrial workers; abolition of the laws governing domestics. | Not sure | <span style="color:green"> yes </span> |
 
 
-Overall, there are 36 programmatic demands (if I've managed to count them right), the vast majority of them have not been addressed since the programme was first released (in 1891). In future posts I will attack each group of demands in more detail, complement the demands and setup adversaries, i.e. what lobby groups would be against them.
+Overall, there are 36 programmatic demands (if I've managed to count them right), the vast majority of them have not been addressed since the programme was first released (in 1891). In future posts I will address each group of demands in more detail, complement the demands and setup adversaries, i.e. what lobby groups would be against them.
 
 
 <!-- | Civil servants salary is the workers' average      | No       |Title       |
