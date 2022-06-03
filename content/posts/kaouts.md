@@ -3,7 +3,7 @@ title = "The renegade Kautsky"
 date = "2022-06-03T11:56:53+01:00"
 author = "ssamot"
 tags = ["Socialism"]
-description = "Socialism and its institutions"
+description = "Social democratic demands from long ago"
 +++
 
 I've been reading [Mike Macnair's Revolutionary Strategy: Marxism and the challenge of left unity](https://www.goodreads.com/book/show/8033846-revolutionary-strategy), and it occurred to me there is a whole world out there of ideas and topics that could be helped by more formal analysis, and by that I mean a more rigorous approach to quantify the outcomes of each topic, the parameters that would go in it and the debates what it would spark. As a start, one can take the [the erfurt programme](https://www.marxists.org/history/international/social-democracy/1891/erfurt-program.htm) and start doing a formal/data science analysis on each constituent part of the programme. I've broken down the programme demands into categories and re-organised them so as as to make each demand more specific and explicit. Next to each demand I have included a relevant research question, plus whether or not the demand is currently met in the "broader" west.
