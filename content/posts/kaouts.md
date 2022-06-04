@@ -20,12 +20,11 @@ Suffrage demands | Research question | Currently in place |
 |Direct legislation by the people through the rights of proposal and rejection. | What is the exact mechanism for law introduction/voting? | <span style="color:red"> no </span> |
 |Self-determination and self-government of the people in Reich, state, province, and municipality. | What is the best subdivision for representation? | <span style="color:red"> no </span> |
 
-The second group of demands has to do the application of law, and not the process of making laws:
+The second group of demands has to do the application and administration of law (vs the process of making laws):
 
 Legal demands | Research question | Currently in place |
 | ----------- | ----------- |----------- |
 |Election by the people of magistrates, who are answerable and liable to them.| What should be the mechanism for Jury trials? | <span style="color:red"> no </span> |
-| Annual voting of taxes.| What options should be on the ballot? | <span style="color:red"> no </span> |
 | Appeal in criminal cases. | Not sure | <span style="color:green"> yes </span> |
 | Compensation for individuals unjustly accused, imprisoned, or sentenced. | When is the appropriate level of compensation? | <span style="color:green"> yes </span> |
 | Abolition of capital punishment. | Not sure | <span style="color:green"> yes </span> |
@@ -81,6 +80,7 @@ Tax demands | Research question | Currently in place |
 |Graduated income and property tax for defraying all public expenditures, to the extent that they are to be paid for by taxation. | How much and when to tax? | <span style="color:red"> no </span> |  
 |Inheritance tax, graduated according to the size of the inheritance and the degree of kinship. | What should be the tax on inheritance? | <span style="color:red"> no </span> |
 | Abolition of all indirect taxes, customs,  and other economic measures that sacrifice the interests of the community to those of a privileged few. | Not sure | <span style="color:red"> no </span> |
+| Annual voting of taxes.| What options should be on the ballot? | <span style="color:red"> no </span> |
 
 The ninth set of demands is on worker's rights -- notice that "white collar" employees tend to enjoy quite a few of these, but not sure if they are universal:
 
