@@ -24,7 +24,7 @@ The second group of demands has to do the application and administration of law 
 
 Legal demands | Research question | Currently in place |
 | ----------- | ----------- |----------- |
-|Election by the people of magistrates, who are answerable and liable to them.| What should be the mechanism for Jury trials? | <span style="color:red"> no </span> |
+|Election by the people of magistrates, who are answerable and liable to them.| What should be the mechanism for jury trials? | <span style="color:red"> no </span> |
 | Appeal in criminal cases. | Not sure | <span style="color:green"> yes </span> |
 | Compensation for individuals unjustly accused, imprisoned, or sentenced. | When is the appropriate level of compensation? | <span style="color:green"> yes </span> |
 | Abolition of capital punishment. | Not sure | <span style="color:green"> yes </span> |
