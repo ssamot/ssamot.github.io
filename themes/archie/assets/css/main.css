@@ -99,6 +99,24 @@ figure.floatleft {
   border: 0px
 }
 
+figure.floatrightsplit {
+	max-width: 50%;
+  min-width: 50%;
+	width: auto\9*0.5; /* ie8 */
+	height: auto;
+	float: right;
+  border: 0px
+}
+
+figure.floatleftsplit {
+	max-width: 50%;
+  min-width: 50%;
+	width: auto\9*0.5; /* ie8 */
+	height: auto;
+	float: left;
+  border: 0px
+}
+
 @media screen and (min-width: 600px) {
   figure {
     padding: 0 40px;
@@ -148,7 +166,7 @@ pre code {
   padding: 0 1ch;
   word-wrap: break-word;
   font-family: 'Fira Code', monospace;
-  
+
 }
 
 /* Header */
