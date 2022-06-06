@@ -31,7 +31,7 @@ pre {
   padding: 1em;
 }
 blockquote {
-  border-color: blue;
+  border-color: #b650fa;
 }
 
 h1,
@@ -95,7 +95,7 @@ a:hover {
   color: white;
   text-decoration: none !important;
   font-family: 'Fira Code', monospace;
-  
+
 }
 
 .header nav,
