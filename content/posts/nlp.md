@@ -6,7 +6,7 @@ tags = ["Artificial Intelligence"]
 description = "...are just promising"
 +++
 
-I really don't get all that hype around large language models. I can understand their uses in NLP (and their superb transfer learning powers), but people are treating them like the and-goal of AI. I might be biased but they don't look that smart to me -- I've tried he one here: https://6b.eleuther.ai/. You get different results based on what parameters you use, but with:
+I really don't get all that hype around large language models. I can understand their uses in NLP (and their superb transfer learning powers), but people are treating them like the end-goal of AI. I might be biased, but they don't look that smart to me -- I've tried he one here: https://6b.eleuther.ai/. You get different results based on what parameters you use, but:
 
 Model with top-p = 1.0, temperature = 0 (i.e. choose best -- I guess that's what it means -- you get really bizarre results with the default website parameters)
 
