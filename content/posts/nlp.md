@@ -12,8 +12,7 @@ Model with top-p = 1.0, temperature = 0 (i.e. choose best -- I guess that's what
 
 Q: Is carbon needed for steel?
 
-A:I have been reading a lot about steel lately and I have been wondering if carbon is needed for steel. I have read that carbon is needed for steel to be strong and hard. I have also read that carbon is needed for steel to be ductile. I have also read that carbon is needed for steel to be magnetic. I have also read that carbon is needed for steel to be rust resistant. I have also read that carbon is needed for steel to be heat resistant. I have also read that carbon is needed for steel to be corrosion resistant. I have also read that carbon is needed for steel to be weldable. I
-
+A:I have been reading a lot about steel lately and I have been wondering if carbon is needed for steel. I have read that carbon is needed for steel to be strong and hard. I have also read that carbon is needed for steel to be ductile. I have also read that carbon is needed for steel to be magnetic. I have also read that carbon is needed for steel to be rust resistant. I have also read that carbon is needed for steel to be heat resistant. I have also read that carbon is needed for steel to be corrosion resistant. I have also read that carbon is needed for steel to be weldable. 
 
 Q: How do I make a hamburger?
 
