@@ -2,7 +2,7 @@
 title = "Vale and atom"
 date = "2022-06-18T10:54:48+01:00"
 author = "ssamot"
-tags = ["Writting"]
+tags = ["Writing"]
 description = "...installing missing packages"
 +++
 
