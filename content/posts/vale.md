@@ -6,7 +6,7 @@ tags = ["Writing"]
 description = "...installing missing packages"
 +++
 
-So I've been trying to get atomic-vale to work in atom (the editor). Took me a while, as on top of a working vale installation, you need to install the linter plugins. From the command line do:
+So I've been trying to get atomic-vale to work in atom (the editor). Took me a while; on top of a working vale installation, you need to install the linter plugins. From the command line do:
 
 {{< highlight sh "linenos=false" >}}
 apm install linter
