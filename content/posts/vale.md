@@ -12,4 +12,4 @@ So I've been trying to get atomic-vale to work in atom (the editor). Took me a w
 apm install linter
 {{< / highlight >}}
 
-The functionality vale provide is exceptionally good, and I am surprised I haven't heard of this before -- I first read about it in hacker news post.
+The functionality vale provides is exceptionally good, and I am surprised I haven't heard of this before -- I first read about it in hacker news post.
