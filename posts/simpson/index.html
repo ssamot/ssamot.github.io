@@ -8,7 +8,7 @@
 </span></span><span style=display:flex><span>    <span style=color:#66d9ef>return</span> <span style=color:#f92672>-</span><span style=color:#ae81ff>1</span><span style=color:#f92672>*</span> np<span style=color:#f92672>.</span>random<span style=color:#f92672>.</span>random(size<span style=color:#f92672>=</span>(observations,<span style=color:#ae81ff>1</span>))
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#66d9ef>def</span> <span style=color:#a6e22e>T_treatment</span>(Z):
-</span></span><span style=display:flex><span>    T <span style=color:#f92672>=</span>  np<span style=color:#f92672>.</span>rint(Z <span style=color:#f92672>+</span> np<span style=color:#f92672>.</span>random<span style=color:#f92672>.</span>random(size <span style=color:#f92672>=</span>(observations,<span style=color:#ae81ff>1</span>)))
+</span></span><span style=display:flex><span>    T <span style=color:#f92672>=</span>  np<span style=color:#f92672>.</span>rint(Z <span style=color:#f92672>+</span> np<span style=color:#f92672>.</span>random<span style=color:#f92672>.</span>random(size<span style=color:#f92672>=</span>(observations,<span style=color:#ae81ff>1</span>)))
 </span></span><span style=display:flex><span>    T [T <span style=color:#f92672>&gt;</span> <span style=color:#ae81ff>1</span>] <span style=color:#f92672>=</span> <span style=color:#ae81ff>1</span>
 </span></span><span style=display:flex><span>    T[T <span style=color:#f92672>&lt;</span> <span style=color:#ae81ff>0</span>] <span style=color:#f92672>=</span> <span style=color:#ae81ff>0</span>
 </span></span><span style=display:flex><span>    <span style=color:#66d9ef>return</span> T
