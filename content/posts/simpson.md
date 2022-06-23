@@ -17,20 +17,21 @@ Should you take this Z feature into account? Well, there is no way of knowing ju
 {{< highlight python  >}}
 
 def Z_confounder():
-    return -np.random.random(size=(observations,1))
+    return np.random.random(size=(observations, 1))
 
 def T_treatment(Z):
-    T =  np.rint(Z + np.random.random(size=(observations,1)))
-    T [T > 1] = 1
+    T = np.rint(Z + np.random.random(size=(observations, 1)))
+    T[T > 1] = 1
     T[T < 0] = 0
     return T
 
 def Y_outcome(Z, T):
-    return -T + 5*Z
+    return -T + 5 * Z
 
 z = Z_confounder()
 t = T_treatment(z)
-y = Y_outcome(z,t)
+y = Y_outcome(z, t)
+
 {{< / highlight >}}
 
 
