@@ -1,5 +1,5 @@
 +++
-title = "Simpson's paradox and horror of unobserved confounders"
+title = "Simpson's paradox and the horrors of unobserved confounders"
 date = "2022-06-23T18:46:56+01:00"
 author = "ssamot"
 tags = ["Data science"]
@@ -17,10 +17,10 @@ Should you take this Z feature into account? Well, there is no way of knowing ju
 {{< highlight python  >}}
 
 def Z_confounder():
-    return -1* np.random.random(size=(observations, 1))
+    return -1* np.random.random(size=(observations,1))
 
 def T_treatment(Z):
-    T =  np.rint(Z + np.random.random(size = (observations,1)))
+    T =  np.rint(Z + np.random.random(size =(observations,1)))
     T [T > 1] = 1
     T[T < 0] = 0
     return T
@@ -38,6 +38,6 @@ Just by reading the Y_outcome function, we can see that the $ATE_X$ is indeed -1
 
 What if you have no clue what the data generating process is, or worse, you have no idea what other variables you need to measure? Well, you have no way of knowing whether your $ATE_X$ is biased, "no unobserved confounders" is one of the basic premises of this line of reasoning. You would need to do refutation work -- how badly can you be damaged by unobserved features --- and in our case it looks like this can be quite bit.
 
-Most importantly, however, the whole premise of using observational data to measure effects allows for debates and interpretations that can go either way. As the saying goes "if you torture your data long enough, it will tell you whatever you want to hear". 
+Most importantly, however, the whole premise of using observational data to measure effects allows for debates and interpretations that can go either way. As the saying goes "if you torture your data long enough, it will tell you whatever you want to hear".
 
 - [Hacky code for the above post](/code/simpsons.py)
