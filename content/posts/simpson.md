@@ -17,7 +17,7 @@ Should you take this Z feature into account? Well, there is no way of knowing ju
 {{< highlight python  >}}
 
 def Z_confounder():
-    return -1* np.random.random(size=(observations,1))
+    return -np.random.random(size=(observations,1))
 
 def T_treatment(Z):
     T =  np.rint(Z + np.random.random(size=(observations,1)))
