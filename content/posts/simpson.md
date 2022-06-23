@@ -20,7 +20,7 @@ def Z_confounder():
     return -1* np.random.random(size=(observations,1))
 
 def T_treatment(Z):
-    T =  np.rint(Z + np.random.random(size =(observations,1)))
+    T =  np.rint(Z + np.random.random(size=(observations,1)))
     T [T > 1] = 1
     T[T < 0] = 0
     return T
