@@ -1,5 +1,5 @@
 +++
-title = "Happyness"
+title = "Happiness"
 date = "2022-08-08T10:09:04+01:00"
 author = "ssamot"
 tags = ["AI", "Politics"]
