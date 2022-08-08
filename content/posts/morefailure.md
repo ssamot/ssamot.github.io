@@ -17,3 +17,5 @@ Someone like Neil Postman would probably think that this is an outgrowth of how 
 > American businessmen discovered, long before the rest of us, that the quality and usefulness of their goods are subordinate to the artifice of their display
 
 I am not so sure -- using a silicon valley analogy, the power of lies has just been democratised to the extreme, and is propagated through meaningless catchphrases.
+
+PS. I found this gem flowing around -- https://bitcoinmagazine.com/culture/bitcoin-and-freedom-or-international-communism -- apparently everything is communism now. 
