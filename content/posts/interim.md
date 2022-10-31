@@ -6,7 +6,7 @@ tags = ["AI"]
 description = "...what to do when success is not eminent"
 +++
 
-The most captivating piece of dialogue I think of is a discussion between Kain and Raziel in [Soul Reaver 2](https://en.wikipedia.org/wiki/Soul_Reaver_2):
+The most captivating piece of dialogue I came across in a game is between Kain and Raziel in [Soul Reaver 2](https://en.wikipedia.org/wiki/Soul_Reaver_2):
 
 > Kain : There's a third option, a monumental secret hidden in your very presence here. But it's a secret you have to discover for yourself. Unearth your destiny, Raziel. It's all laid out for you here. <br>
 Raziel : You said it yourself, Kain... there are only two sides to your coin. <br>
