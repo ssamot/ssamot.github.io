@@ -6,7 +6,7 @@ tags = ["Politics"]
 description = "...vs "
 +++
 
-https://www.marxists.org/archive/lafargue/1890/xx/marx.htm
+Same quick quotes from https://www.marxists.org/archive/lafargue/1890/xx/marx.htm on Marx and family
 
 > He had a great talent for languages which his daughters inherited from him. He took up the study of Russian when he was already 50 years old, and although that language had no close affinity to any of the modern or ancient languages he knew, in six months he knew it well enough to derive pleasure from reading Russian poets and prose writers, his preference going to Pushkin, Gogol and Shchedrin
 
