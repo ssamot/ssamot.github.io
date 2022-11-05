@@ -1,5 +1,5 @@
 +++
-title = "Marx and Family"
+title = "Marx and family"
 date = "2022-11-01T13:57:51Z"
 author = "ssamot"
 tags = ["Politics"]
