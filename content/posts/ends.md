@@ -1,5 +1,5 @@
 +++
-title = "The ends do not justify the means"
+title = "The end do not justify the means"
 date = "2022-11-07T13:53:27Z"
 author = "ssamot"
 tags = ["Politics"]
