@@ -6,6 +6,6 @@ tags = ["History"]
 description = "What have the Romans ever done for us?"
 +++
 
-Beyond the roads and the sanitation, the most enduring Roman legacy must be the concept of property over men, things and animals -- a definition of self based on what you own. 
+Beyond roads and sanitation, the most enduring Roman legacy must be the concept of property over men, things and animals -- a definition of self based on what you own. 
 
 {{< youtube Qc7HmhrgTuQ >}}
