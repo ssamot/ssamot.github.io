@@ -1,5 +1,5 @@
 +++
-title = "The Society of the Spectacle"
+title = "The society of the spectacle"
 date = "2022-11-26T20:13:23Z"
 author = "ssamot"
 tags = ["Marxism", ""]
