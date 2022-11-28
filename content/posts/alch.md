@@ -3,7 +3,7 @@ title = "Alchemy and AI "
 date = "2022-08-18T20:49:27+01:00"
 author = "ssamot"
 tags = ["AI"]
-description = "...have a long history togeather"
+description = "...have a long history together"
 +++
 
 There is this [legendary paper by Hubert Dreyfus](https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf); it's a critique on AI written back in 1965. Quite a bit of what is in the paper would not make sense today (as we have somewhat addressed the games and language challenges), but I think the comment that stands out is:
