@@ -15,8 +15,7 @@ fused to believe that on the chemical level one cannot
 transmute metals. To avoid the fate of the alchemists, it.
 is time we asked where we stand. Now, before we invest more
 time and money on the information-processing level, we should
-ask whether the protocols of human subjects suggest that com-
-puter language is appropriate for analyzing human behavior.
+ask whether the protocols of human subjects suggest that computer language is appropriate for analyzing human behavior.
 Is an exhaustive analysis of human intelligent behavior
 into discrete and determinate operations possible? Is an
 approximate analysis of human intelligent behavior in such
