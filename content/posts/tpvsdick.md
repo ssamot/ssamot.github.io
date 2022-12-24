@@ -6,7 +6,7 @@ tags = ["AI"]
 description = "...doing theology"
 +++
 
-I don't have much to say here apart from posting two quotes from two my favourite authors: 
+I don't have much to say here apart from posting two quotes from two of my favourite authors: 
 
 Terry Pratchett: 
 > And sin, young man, is when you treat people as things. Including yourself. That’s what sin is.
