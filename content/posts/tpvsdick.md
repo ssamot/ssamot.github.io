@@ -2,7 +2,7 @@
 title = "Terry Pratchett vs Philip K. Dick"
 date = "2022-12-24T08:52:36Z"
 author = "ssamot"
-tags = ["AI"]
+tags = ["Religion"]
 description = "...doing theology"
 +++
 
