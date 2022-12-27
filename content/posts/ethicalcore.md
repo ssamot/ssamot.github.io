@@ -3,7 +3,7 @@ title = "Losing your ethical core"
 date = "2022-12-27T17:50:46Z"
 author = "ssamot"
 tags = ["Politics"]
-description = "...and other post 80's trends"
+description = "...and other post-80's trends"
 +++
 
 
