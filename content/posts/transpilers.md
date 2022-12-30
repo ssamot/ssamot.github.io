@@ -12,4 +12,4 @@ https://pomsky-lang.org/
 
 https://prql-lang.org/
 
-One should be able to use these to make extremely explainable AI modules, something I plan on exploring in the next few month, after a finish (another) RL paper.
+One should be able to use these to make extremely explainable AI modules, something I plan on exploring in the next few months, after I finish (another) RL paper.
