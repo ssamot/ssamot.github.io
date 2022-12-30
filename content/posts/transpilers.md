@@ -3,7 +3,7 @@ title = "Transpilers"
 date = "2022-12-30T13:56:45Z"
 author = "ssamot"
 tags = ["AI", "Data Science"]
-description = "...see cool"
+description = "...seem cool"
 +++
 
 There is a project in using transpilers and 5th generation languages to simplify the data science pipeline enormously. In the SQL and regular expression front these two seem promising: 
