@@ -3,7 +3,7 @@ title = "Basic storytelling"
 date = "2023-01-30T16:20:59Z"
 author = "ssamot"
 tags = ["Storytelling", "Games"]
-description = "Hero's Journay"
+description = "A hero's Journey"
 +++
 
 Basic storytelling has a very simple, yet compelling design -- see here: 
