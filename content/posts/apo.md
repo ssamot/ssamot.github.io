@@ -17,4 +17,4 @@ To the extent that I can draw an analogy, there is a pretty clear pattern taking
 9. Church fathers: It has already happened, the Kingdom of God has arrived etc (i.e. full preterism). 
 
 
-It seems we are at stage 1 of the cycle, but at some point the inevitable period of grief. 
+It seems we are at stage 1 of the cycle, but at some point the inevitable realisation that very little is going to happen will sink in. 
