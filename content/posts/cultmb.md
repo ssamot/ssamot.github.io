@@ -1,5 +1,5 @@
 +++
-title = "The culture of make belief"
+title = "The culture of make believe"
 date = "2023-05-01T11:36:21+01:00"
 author = "ssamot"
 tags = ["Politics"]
