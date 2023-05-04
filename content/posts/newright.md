@@ -2,7 +2,7 @@
 title = "The (new|alt|whatever)-right"
 date = "2023-05-01T08:14:42+01:00"
 author = "ssamot"
-tags = ["Unambomber"]
+tags = ["Unabomber"]
 description = "...and the unabomber"
 +++
 
