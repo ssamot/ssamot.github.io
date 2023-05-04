@@ -6,7 +6,7 @@ tags = ["Unambomber"]
 description = "...and the unabomber"
 +++
 
-It seems to me that in the heart of the "new right" thinking lies the Unabomber manifesto, which must have been one of the most persistent producer of memes ("....x has been a disaster for the human race."), and underneath it lies a critique of the modern world. [Fleming, Sean. "The Unabomber and the origins of anti-tech radicalism." Journal of Political Ideologies 27, no. 2 (2022): 207-225.](https://www.tandfonline.com/doi/full/10.1080/13569317.2021.1921940), which I wouldn't have found if it wasn't on top of the wikipedia link to it, does a great job breaking down kaczynski's argument. 
+It seems to me that in the heart of the "new right" thinking lies the Unabomber manifesto, which must have been one of the most persistent producer of memes ("....x has been a disaster for the human race."), and underneath it lies a critique of the modern world. [Fleming, Sean. "The Unabomber and the origins of anti-tech radicalism." Journal of Political Ideologies 27, no. 2 (2022): 207-225.](https://www.tandfonline.com/doi/full/10.1080/13569317.2021.1921940), which I wouldn't have found if it wasn't the top wikipedia for the Unambomber, does a great job breaking down kaczynski's argument. 
 
 {{< youtube jgDMmZqqI6w >}}
 
