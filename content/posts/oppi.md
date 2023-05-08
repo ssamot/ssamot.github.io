@@ -1,5 +1,5 @@
 +++
-title = "AI tropes and Oppenheimer dreams"
+title = "AI hype and Oppenheimer"
 date = "2023-05-08T20:48:42+01:00"
 author = "ssamot"
 tags = ["AI"]
