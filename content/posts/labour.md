@@ -14,4 +14,4 @@ https://jacobin.com/2023/08/post-work-socialism-is-a-tempting-illusion/
 
 > For now, it is worth noting that automation can’t solve the necessary labor problem because (a) some kinds of necessary labor, like education and health care and childcare, cannot be fully automated; (b) some kinds of necessary labor, from construction to agriculture, might in principle be fully automatable but not in the near or even moderate-distance future; (c) many kinds of automation eliminate some tasks but create new ones that require human beings; and (d) machines have to be monitored and repaired, so even where machines do fully replace human beings, the necessary labor of maintenance remains.
 
-Graeber (I think in Debt: The first 5000 years) mentions that the first slaves where actually used for caring duties/household reproduction, and it seems to me this we are as far away from automating that labour as ever. 
+Graeber (I think in Debt: The first 5000 years) mentions that the first slaves where actually used for caring duties/household reproduction, and it seems to me that we are as far away from automating this kind of labour as ever. 
