@@ -2,7 +2,7 @@
 title = "Liberal contradictions"
 date = "2023-10-08T10:07:47+01:00"
 author = "ssamot"
-tags = ["Politics]
+tags = ["Politics"]
 description = "Depopulation"
 +++
 
