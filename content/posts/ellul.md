@@ -33,7 +33,7 @@ superior to Hollywood stars. They are having a part in man's
 struggle for man. They are not yet model heroes, but they have
 already entered the religious sphere.
 
-Mercouri I tend to think of as a minister of culture. The book was published in 1975, so I guess the author had something else mind :P 
+Mercouri I tend to think of as a minister of culture. The book was published in 1975, so I guess the author had something else in mind :P 
 
 >> moment when one claims to be freeing Christianity from the
 religious hodgepodge which has burdened it for twenty centuries,
