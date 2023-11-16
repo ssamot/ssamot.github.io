@@ -2,7 +2,7 @@
 title = "ChatGPT, D&D and Greek/Roman deities"
 date = "2023-11-16T22:36:04Z"
 author = "ssamot"
-tags = ["", ""]
+tags = ["RPG"]
 description = ""
 +++
 
