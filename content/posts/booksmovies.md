@@ -3,9 +3,10 @@ title = "Books and movies"
 date = "2023-11-28T20:35:42Z"
 author = "ssamot"
 tags = ["Culture"]
-description = "That I like and can link"
+description = "...with parallel themes"
 +++
 
+A set of books and movies that have certain parallels I found interesting.
 
 1. **Notes from Underground / Taxi Driver**
    - *Notes from Underground* by Fyodor Dostoevsky
