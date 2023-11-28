@@ -13,13 +13,13 @@ description = "That I like and can link"
 
    **Theme:** Alienation
 
-2. **Answer to Job / Equilibrium**
+2. **Answer to Job / The Breakfast Club**
    - *Answer to Job* by Carl Jung
    - *The Breakfast Club* (1985) directed John Hughes
 
    **Theme:** Becoming better
 
-3. **Ozzy Osbourne's Biography / The Dirt**
+3. **I Am Ozzy / The Dirt**
    - *I Am Ozzy* by Ozzy Osbourne
    - *The Dirt* (1999) directed by Jeff Tremaine
 
