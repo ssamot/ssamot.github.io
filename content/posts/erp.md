@@ -6,7 +6,7 @@ tags = ["AI", "Politics"]
 description = "...it's harder to free humans from labour"
 +++
 
-There has been quite a lot written about cybersyn, and more is to come, but its technological promise IMHO has been achieved years ago. Every manufacturing company has an automated inventory recording system, almost all needs are calculated daily, orders are put forward and control is performed centrally. Add LLMs to the mix and we really have the "heart of the enterprise". We have an entity that can communicate to the external world in a easy way tries to expand aggressively. 
+There has been quite a lot written about cybersyn, and more is to come, but its technological promise IMHO has been achieved years ago. Every manufacturing company has an automated inventory recording system, almost all needs are calculated daily, orders are put forward and control is performed centrally. Add LLMs to the mix and we really have the "heart of the enterprise". We have an entity that can communicate to the external world in a easy way and tries to expand aggressively. 
 
 Yet, we have not conquered the physical world. We still build almost everything physical with humans in the pipeline, and this might not change soon. Which is why this presentation below by Jitendra Malik puts (most) things in their right perspective. I do not agree with the solutions proposed, and I still think we are missing quite a bit, but the frame is IMHO spot on.
 
