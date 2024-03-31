@@ -2,7 +2,7 @@
 title = "Celsus, Porphyry, Julian"
 date = "2024-03-31T20:04:26+01:00"
 author = "ssamot"
-tags = ["Religion]
+tags = ["Religion"]
 description = "...vs the Christians"
 +++
 
