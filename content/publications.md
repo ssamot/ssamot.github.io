@@ -16,14 +16,194 @@ You can find most of my (academic) publications under my [Google scholar profile
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="quteineh2022enhancing">1</a>]
+[<a name="fairbank2025neurocontrol">1</a>]
+</td>
+<td class="bibtexitem">
+Michael Fairbank, Danil Prokhorov, David Barragan-Alcantar, Spyridon
+  Samothrakis, and Shuhui Li.
+ Neurocontrol for fixed-length trajectories in environments with soft
+  barriers.
+ <em>Neural Networks</em>, 184:107034, 2025.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="soemers2024environment">2</a>]
+</td>
+<td class="bibtexitem">
+Dennis&nbsp;JNJ Soemers, Spyridon Samothrakis, Kurt Driessens, and Mark&nbsp;HM Winands.
+ Environment descriptions for usability and generalisation in
+  reinforcement learning.
+ <em>arXiv preprint arXiv:2412.16970</em>, 2024.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="long2024step">3</a>]
+</td>
+<td class="bibtexitem">
+George&nbsp;EM Long, Diego Perez-Liebana, and Spyridon Samothrakis.
+ Step: A framework for automated point cost estimation.
+ <em>IEEE Transactions on Games</em>, 2024.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="samothrakis2024games">4</a>]
+</td>
+<td class="bibtexitem">
+Spyridon Samothrakis, Dennis&nbsp;JNJ Soemers, and Damian Machlanski.
+ Games of knightian uncertainty as agi testbeds.
+ In <em>2024 IEEE Conference on Games (CoG)</em>, pages 1--4. IEEE, 2024.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="machlanski2024undersmoothing">5</a>]
+</td>
+<td class="bibtexitem">
+Damian Machlanski, Spyridon Samothrakis, and Paul Clarke.
+ Undersmoothing causal estimators with generative trees.
+ <em>IEEE Access</em>, 2024.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="batsis2024contextual">6</a>]
+</td>
+<td class="bibtexitem">
+Alex Batsis and Spyridon Samothrakis.
+ Contextual reinforcement learning for supply chain management.
+ <em>Expert Systems with Applications</em>, 249:123541, 2024.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="samothrakis2024artificial">7</a>]
+</td>
+<td class="bibtexitem">
+Spyridon Samothrakis.
+ Artificial intelligence and modern planned economies: a discussion on
+  methods and institutions.
+ <em>AI &amp; SOCIETY</em>, pages 1--12, 2024.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="machlanski2024robustness">8</a>]
+</td>
+<td class="bibtexitem">
+Damian Machlanski, Spyridon Samothrakis, and Paul&nbsp;S Clarke.
+ Robustness of algorithms for causal structure learning to
+  hyperparameter choice.
+ In <em>Causal Learning and Reasoning</em>, pages 703--739. PMLR, 2024.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="long2023balancing">9</a>]
+</td>
+<td class="bibtexitem">
+George&nbsp;EM Long, Diego Perez-Liebana, and Spyridon Samothrakis.
+ Balancing wargames through predicting unit point costs.
+ In <em>2023 IEEE Conference on Games (CoG)</em>, pages 1--8. IEEE, 2023.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="pisheh2023finding">10</a>]
+</td>
+<td class="bibtexitem">
+Mahrad Pisheh&nbsp;Var, Michael Fairbank, and Spyridon Samothrakis.
+ Finding eulerian tours in mazes using a memory-augmented fixed policy
+  function.
+ In <em>Science and Information Conference</em>, pages 322--339. Springer
+  Nature Switzerland Cham, 2023.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="pisheh2023minimal">11</a>]
+</td>
+<td class="bibtexitem">
+Mahrad Pisheh&nbsp;Var, Michael Fairbank, and Spyridon Samothrakis.
+ A minimal “functionally sentient” organism trained with
+  backpropagation through time.
+ <em>Adaptive Behavior</em>, 31(6):531--544, 2023.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="machlanski2023hyperparameter">12</a>]
+</td>
+<td class="bibtexitem">
+Damian Machlanski, Spyridon Samothrakis, and Paul Clarke.
+ Hyperparameter tuning and model evaluation in causal effect
+  estimation.
+ <em>arXiv preprint arXiv:2303.01412</em>, 2023.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="soemers2023extracting">13</a>]
+</td>
+<td class="bibtexitem">
+Dennis&nbsp;JNJ Soemers, Spyridon Samothrakis, &Eacute;ric Piette, and Matthew
+  Stephenson.
+ Extracting tactics learned from self-play in general games.
+ <em>Information Sciences</em>, 624:277--298, 2023.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="quteineh2022enhancing">14</a>]
 </td>
 <td class="bibtexitem">
 Husam Quteineh, Spyridon Samothrakis, and Richard Sutcliffe.
  Enhancing task-specific distillation in small data regimes through
   language generation.
  In <em>Proceedings of the 29th International Conference on
-  Computational Linguistics</em>, pages 5955--5965, 2022.
+  Computational Linguistics</em>, volume&nbsp;29, pages 5955--5965. Association for
+  Computational Linguistics, 2022.
 
 </td>
 </tr>
@@ -31,14 +211,14 @@ Husam Quteineh, Spyridon Samothrakis, and Richard Sutcliffe.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="lotun2022parasocial">2</a>]
+[<a name="lotun2022parasocial">15</a>]
 </td>
 <td class="bibtexitem">
 Shaaba Lotun, Veronica&nbsp;M Lamarche, Spyridon Samothrakis, Gillian&nbsp;M Sandstrom,
   and Ana Matran-Fernandez.
  Parasocial relationships on youtube reduce prejudice towards mental
   health issues.
- <em>Scientific Reports</em>, 12(1):1--13, 2022.
+ <em>Scientific Reports</em>, 12(1):16565, 2022.
 
 </td>
 </tr>
@@ -46,7 +226,7 @@ Shaaba Lotun, Veronica&nbsp;M Lamarche, Spyridon Samothrakis, Gillian&nbsp;M San
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2022grokking">3</a>]
+[<a name="samothrakis2022grokking">16</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Ana Matran-Fernandez, Umar Abdullahi, Michael Fairbank,
@@ -61,12 +241,12 @@ Spyridon Samothrakis, Ana Matran-Fernandez, Umar Abdullahi, Michael Fairbank,
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="fairbank2022deep">4</a>]
+[<a name="fairbank2022deep">17</a>]
 </td>
 <td class="bibtexitem">
 Michael Fairbank, Spyridon Samothrakis, and Luca Citi.
  Deep learning in target space.
- <em>Journal of Machine Learning Research</em>, 23:1--46, 2022.
+ <em>Journal of Machine Learning Research</em>, 23(8):1--46, 2022.
 
 </td>
 </tr>
@@ -74,26 +254,13 @@ Michael Fairbank, Spyridon Samothrakis, and Luca Citi.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="machlanski2022undersmoothing">5</a>]
-</td>
-<td class="bibtexitem">
-Damian Machlanski, Spyridon Samothrakis, and Paul Clarke.
- Undersmoothing causal estimators with generative trees.
- <em>arXiv preprint arXiv:2203.08570</em>, 2022.
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="samothrakis2021artificial">6</a>]
+[<a name="samothrakis2021artificial">18</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis.
  Artificial intelligence inspired methods for the allocation of common
   goods and services.
- <em>Plos one</em>, 16(9):e0257399, 2021.
+ <em>plos one</em>, 16(9):e0257399, 2021.
 
 </td>
 </tr>
@@ -101,7 +268,7 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="hernandez2021comparison">7</a>]
+[<a name="hernandez2021comparison">19</a>]
 </td>
 <td class="bibtexitem">
 Daniel Hernandez, Kevin Denamganai, Sam Devlin, Spyridon Samothrakis, and
@@ -115,7 +282,7 @@ Daniel Hernandez, Kevin Denamganai, Sam Devlin, Spyridon Samothrakis, and
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="dwivedi2021artificial">8</a>]
+[<a name="dwivedi2021artificial">20</a>]
 </td>
 <td class="bibtexitem">
 Yogesh&nbsp;K Dwivedi, Laurie Hughes, Elvira Ismagilova, Gert Aarts, Crispin Coombs,
@@ -123,7 +290,7 @@ Yogesh&nbsp;K Dwivedi, Laurie Hughes, Elvira Ismagilova, Gert Aarts, Crispin Coo
  Artificial intelligence (ai): Multidisciplinary perspectives on
   emerging challenges, opportunities, and agenda for research, practice and
   policy.
- <em>International Journal of Information Management</em>, 57:101994,
+ <em>International journal of information management</em>, 57:101994,
   2021.
 
 </td>
@@ -132,15 +299,28 @@ Yogesh&nbsp;K Dwivedi, Laurie Hughes, Elvira Ismagilova, Gert Aarts, Crispin Coo
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="quteineh2020textual">9</a>]
+[<a name="abdullahi2020causal">21</a>]
+</td>
+<td class="bibtexitem">
+Umar&nbsp;I Abdullahi, Spyros Samothrakis, and Maria Fasli.
+ Causal inference with correlation alignment.
+ In <em>2020 IEEE International Conference on Big Data (Big Data)</em>,
+  pages 4971--4980. IEEE, 2020.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="quteineh2020textual">22</a>]
 </td>
 <td class="bibtexitem">
 Husam Quteineh, Spyridon Samothrakis, and Richard Sutcliffe.
  Textual data augmentation for efficient active learning on tiny
   datasets.
  In <em>Proceedings of the 2020 Conference on Empirical Methods in
-  Natural Language Processing (EMNLP)</em>, pages 7400--7410. Association for
-  Computational Linguistics, 2020.
+  Natural Language Processing (EMNLP)</em>, pages 7400--7410, 2020.
 
 </td>
 </tr>
@@ -148,20 +328,7 @@ Husam Quteineh, Spyridon Samothrakis, and Richard Sutcliffe.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2020open">10</a>]
-</td>
-<td class="bibtexitem">
-Spyridon Samothrakis.
- Open loop in natura economic planning.
- <em>arXiv preprint arXiv:2005.01539</em>, 2020.
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="salge2020applications">11</a>]
+[<a name="salge2020applications">23</a>]
 </td>
 <td class="bibtexitem">
 Christoph Salge, Emily Short, Mike Preuss, Spyridon Samothrakis, and Pieter
@@ -177,13 +344,14 @@ Christoph Salge, Emily Short, Mike Preuss, Spyridon Samothrakis, and Pieter
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="rajalingam2019neuroevolution">12</a>]
+[<a name="sankarpandi2019active">24</a>]
 </td>
 <td class="bibtexitem">
-Vivan&nbsp;Raaj Rajalingam and Spyridon Samothrakis.
- Neuroevolution strategies for word embedding adaptation in text
-  adventure games.
- In <em>2019 IEEE Conference on Games (CoG)</em>, pages 1--8. IEEE, 2019.
+Sathish&nbsp;K Sankarpandi, Spyros Samothrakis, Luca Citi, and Peter Brady.
+ Active learning without unlabeled samples: generating questions and
+  labels using monte carlo tree search.
+ In <em>2019 IEEE International Conference on Big Data (Big Data)</em>,
+  pages 4628--4631. IEEE, 2019.
 
 </td>
 </tr>
@@ -191,7 +359,7 @@ Vivan&nbsp;Raaj Rajalingam and Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="hernandez2019generalized">13</a>]
+[<a name="hernandez2019generalized">25</a>]
 </td>
 <td class="bibtexitem">
 Daniel Hernandez, Kevin Denamgana&iuml;, Yuan Gao, Peter York, Sam Devlin,
@@ -205,7 +373,7 @@ Daniel Hernandez, Kevin Denamgana&iuml;, Yuan Gao, Peter York, Sam Devlin,
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="raza2019bagging">14</a>]
+[<a name="raza2019bagging">26</a>]
 </td>
 <td class="bibtexitem">
 Haider Raza and Spyridon Samothrakis.
@@ -220,7 +388,7 @@ Haider Raza and Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="alshahrani2019identifying">15</a>]
+[<a name="alshahrani2019identifying">27</a>]
 </td>
 <td class="bibtexitem">
 Mohammed Alshahrani, Spyridon Samothrakis, and Maria Fasli.
@@ -234,14 +402,13 @@ Mohammed Alshahrani, Spyridon Samothrakis, and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2019training">16</a>]
+[<a name="samothrakis2019training">28</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Diego Perez, and Simon Lucas.
  Training gradient boosting machines using curve-fitting and
   information-theoretic features for causal direction detection.
- In <em>Cause Effect Pairs in Machine Learning</em>, pages 331--338.
-  Springer, Cham, 2019.
+ <em>Cause Effect Pairs in Machine Learning</em>, pages 331--338, 2019.
 
 </td>
 </tr>
@@ -249,7 +416,7 @@ Spyridon Samothrakis, Diego Perez, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="thue2018backstory">17</a>]
+[<a name="thue2018backstory">29</a>]
 </td>
 <td class="bibtexitem">
 David Thue, Mirjam&nbsp;Palosaari Eladhari, Joshua&nbsp;Allen McCoy, Mike Preu&szlig;,
@@ -265,14 +432,13 @@ David Thue, Mirjam&nbsp;Palosaari Eladhari, Joshua&nbsp;Allen McCoy, Mike Preu&s
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2018kathryn">18</a>]
+[<a name="samothrakis2018kathryn">30</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis.
  Kathryn e. merrick: Computational models of motivation for
-  game-playing agents.
- <em>Genetic Programming and Evolvable Machines</em>, 19(4):567--568,
-  2018.
+  game-playing agents: Springer, 2016, 213 pp, isbn: 978-3-319-33457-8.
+ <em>Genetic Programming and Evolvable Machines</em>, 19:567--568, 2018.
 
 </td>
 </tr>
@@ -280,12 +446,13 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2018artificial">19</a>]
+[<a name="abdullahi2017counterfactual">31</a>]
 </td>
 <td class="bibtexitem">
-Spyridon Samothrakis.
- artificial intelligence and labour.
- <em>arXiv preprint arXiv:1803.06563</em>, 2018.
+Umar&nbsp;I Abdullahi, Spyros Samothrakis, and Maria Fasli.
+ Counterfactual domain adversarial training of neural networks.
+ In <em>2017 International Conference on the Frontiers and Advances
+  in Data Science (FADS)</em>, pages 151--155. IEEE, 2017.
 
 </td>
 </tr>
@@ -293,13 +460,13 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="alshahrani2017word">20</a>]
+[<a name="alshahrani2017word">32</a>]
 </td>
 <td class="bibtexitem">
 Mohammed Alshahrani, Spyridon Samothrakis, and Maria Fasli.
  Word mover's distance for affect detection.
- In <em>2017 International Conference on the Frontiers and Advances
-  in Data Science (FADS)</em>, pages 18--23. IEEE, 2017.
+ In <em>2017 international conference on the frontiers and advances
+  in data science (fads)</em>, pages 18--23. IEEE, 2017.
 
 </td>
 </tr>
@@ -307,7 +474,7 @@ Mohammed Alshahrani, Spyridon Samothrakis, and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="vodopivec2017monte">21</a>]
+[<a name="vodopivec2017monte">33</a>]
 </td>
 <td class="bibtexitem">
 Tom Vodopivec, Spyridon Samothrakis, and Branko Ster.
@@ -320,7 +487,7 @@ Tom Vodopivec, Spyridon Samothrakis, and Branko Ster.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2017convolutional">22</a>]
+[<a name="samothrakis2017convolutional">34</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Tom Vodopivec, Michael Fairbank, and Maria Fasli.
@@ -335,13 +502,13 @@ Spyridon Samothrakis, Tom Vodopivec, Michael Fairbank, and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2017default">23</a>]
+[<a name="samothrakis2017default">35</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Maria Fasli, Diego Perez, and Simon Lucas.
  Default policies for global optimisation of noisy functions with
   severe noise.
- <em>Journal of Global Optimization</em>, 67(4):893--907, 2017.
+ <em>Journal of Global Optimization</em>, 67:893--907, 2017.
 
 </td>
 </tr>
@@ -349,7 +516,7 @@ Spyridon Samothrakis, Maria Fasli, Diego Perez, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2016analyzing">24</a>]
+[<a name="perez2016analyzing">36</a>]
 </td>
 <td class="bibtexitem">
 Diego P&eacute;rez-Li&eacute;bana, Spyridon Samothrakis, Julian Togelius, Tom Schaul,
@@ -364,7 +531,20 @@ Diego P&eacute;rez-Li&eacute;bana, Spyridon Samothrakis, Julian Togelius, Tom Sc
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2016match">25</a>]
+[<a name="samothrakisnarrative">37</a>]
+</td>
+<td class="bibtexitem">
+Spyridon Samothrakis.
+ Narrative progression traits for role-playing games.
+ 2016.
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="samothrakis2016match">38</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Tom Vodopivec, Maria Fasli, and Michael Fairbank.
@@ -378,13 +558,14 @@ Spyridon Samothrakis, Tom Vodopivec, Maria Fasli, and Michael Fairbank.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2016general">26</a>]
+[<a name="perez2016general">39</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez-Liebana, Spyridon Samothrakis, Julian Togelius, Tom Schaul, and
-  Simon&nbsp;M Lucas.
+  Simon Lucas.
  General video game ai: Competition, challenges and opportunities.
- In <em>Thirtieth AAAI conference on artificial intelligence</em>, 2016.
+ In <em>Proceedings of the AAAI Conference on Artificial
+  Intelligence</em>, volume&nbsp;30, 2016.
 
 </td>
 </tr>
@@ -392,12 +573,14 @@ Diego Perez-Liebana, Spyridon Samothrakis, Julian Togelius, Tom Schaul, and
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakisnarrative">27</a>]
+[<a name="samothrakis3">40</a>]
 </td>
 <td class="bibtexitem">
-Spyridon Samothrakis.
- Narrative progression traits for role-playing games.
- 2016.
+Spyridon Samothrakis, Bruno Bouzy, Michael Buro, Setareh Maghsudi, and
+  T&oacute;mas Philip.
+ Learning to learn.
+ <em>Artificial and Computational Intelligence in Games: Revolutions
+  in Computational Game AI</em>, 2015.
 
 </td>
 </tr>
@@ -405,7 +588,7 @@ Spyridon Samothrakis.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="pavia2015algorithms">28</a>]
+[<a name="pavia2015algorithms">41</a>]
 </td>
 <td class="bibtexitem">
 A&nbsp;Pavia, S&nbsp;Samothrakis, T&nbsp;Schaul, N&nbsp;Shaker, Moshe Sipper, J&nbsp;Togelius,
@@ -421,7 +604,7 @@ A&nbsp;Pavia, S&nbsp;Samothrakis, T&nbsp;Schaul, N&nbsp;Shaker, Moshe Sipper, J&
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2015emotional">29</a>]
+[<a name="samothrakis2015emotional">42</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis and Maria Fasli.
@@ -434,7 +617,7 @@ Spyridon Samothrakis and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2015neuroevolution">30</a>]
+[<a name="samothrakis2015neuroevolution">43</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Diego Perez-Liebana, Simon&nbsp;M Lucas, and Maria Fasli.
@@ -448,7 +631,7 @@ Spyridon Samothrakis, Diego Perez-Liebana, Simon&nbsp;M Lucas, and Maria Fasli.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez20152014">31</a>]
+[<a name="perez20152014">44</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez-Liebana, Spyridon Samothrakis, Julian Togelius, Tom Schaul, Simon&nbsp;M
@@ -463,7 +646,7 @@ Diego Perez-Liebana, Spyridon Samothrakis, Julian Togelius, Tom Schaul, Simon&nb
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2014gvg">32</a>]
+[<a name="perez2014gvg">45</a>]
 </td>
 <td class="bibtexitem">
 D&nbsp;Perez, S&nbsp;Samothrakis, J&nbsp;Togelius, T&nbsp;Schaul, and S&nbsp;Lucas.
@@ -475,7 +658,7 @@ D&nbsp;Perez, S&nbsp;Samothrakis, J&nbsp;Togelius, T&nbsp;Schaul, and S&nbsp;Luc
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2014rolling">33</a>]
+[<a name="samothrakis2014rolling">46</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Samuel&nbsp;A Roberts, Diego Perez, and Simon&nbsp;M Lucas.
@@ -489,7 +672,7 @@ Spyridon Samothrakis, Samuel&nbsp;A Roberts, Diego Perez, and Simon&nbsp;M Lucas
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2014multiobjective">34</a>]
+[<a name="perez2014multiobjective">47</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Sanaz Mostaghim, Spyridon Samothrakis, and Simon&nbsp;M Lucas.
@@ -503,7 +686,7 @@ Diego Perez, Sanaz Mostaghim, Spyridon Samothrakis, and Simon&nbsp;M Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2014knowledge">35</a>]
+[<a name="perez2014knowledge">48</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Spyridon Samothrakis, and Simon Lucas.
@@ -518,7 +701,7 @@ Diego Perez, Spyridon Samothrakis, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2014predicting">36</a>]
+[<a name="samothrakis2014predicting">49</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Diego Perez, Simon&nbsp;M Lucas, and Philipp Rohlfshagen.
@@ -532,7 +715,7 @@ Spyridon Samothrakis, Diego Perez, Simon&nbsp;M Lucas, and Philipp Rohlfshagen.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez20142013">37</a>]
+[<a name="perez20142013">50</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Edward Powley, Daniel Whitehouse, Spyridon Samothrakis, Simon
@@ -548,13 +731,14 @@ Diego Perez, Edward Powley, Daniel Whitehouse, Spyridon Samothrakis, Simon
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="lucas2014fast">38</a>]
+[<a name="lucas2014fast">51</a>]
 </td>
 <td class="bibtexitem">
 Simon&nbsp;M Lucas, Spyridon Samothrakis, and Diego Perez.
  Fast evolutionary adaptation for monte carlo tree search.
- In <em>European Conference on the Applications of Evolutionary
-  Computation</em>, pages 349--360. Springer, Berlin, Heidelberg, 2014.
+ In <em>Applications of Evolutionary Computation: 17th European
+  Conference, EvoApplications 2014, Granada, Spain, April 23-25, 2014, Revised
+  Selected Papers 17</em>, pages 349--360. Springer Berlin Heidelberg, 2014.
 
 </td>
 </tr>
@@ -562,7 +746,7 @@ Simon&nbsp;M Lucas, Spyridon Samothrakis, and Diego Perez.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2013automated">39</a>]
+[<a name="perez2013automated">52</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Julian Togelius, Spyridon Samothrakis, Philipp Rohlfshagen, and
@@ -577,13 +761,13 @@ Diego Perez, Julian Togelius, Spyridon Samothrakis, Philipp Rohlfshagen, and
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2013online">40</a>]
+[<a name="perez2013online">53</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Spyridon Samothrakis, and Simon Lucas.
  Online and offline learning in multi-objective monte carlo tree
   search.
- In <em>2013 IEEE Conference on Computational Inteligence in Games
+ In <em>2013 IEEE conference on computational inteligence in games
   (CIG)</em>, pages 1--8. IEEE, 2013.
 
 </td>
@@ -592,7 +776,7 @@ Diego Perez, Spyridon Samothrakis, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2013rolling">41</a>]
+[<a name="perez2013rolling">54</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Spyridon Samothrakis, Simon Lucas, and Philipp Rohlfshagen.
@@ -607,7 +791,7 @@ Diego Perez, Spyridon Samothrakis, Simon Lucas, and Philipp Rohlfshagen.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="perez2013solving">42</a>]
+[<a name="perez2013solving">55</a>]
 </td>
 <td class="bibtexitem">
 Diego Perez, Edward&nbsp;J Powley, Daniel Whitehouse, Philipp Rohlfshagen, Spyridon
@@ -623,7 +807,7 @@ Diego Perez, Edward&nbsp;J Powley, Daniel Whitehouse, Philipp Rohlfshagen, Spyri
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="ashlock2012competition">43</a>]
+[<a name="ashlock2012competition">56</a>]
 </td>
 <td class="bibtexitem">
 Daniel Ashlock, Wendy Ashlock, Spyridon Samothrakis, Simon Lucas, and Colin
@@ -638,12 +822,12 @@ Daniel Ashlock, Wendy Ashlock, Spyridon Samothrakis, Simon Lucas, and Colin
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="friston2012active">44</a>]
+[<a name="friston2012active">57</a>]
 </td>
 <td class="bibtexitem">
 Karl Friston, Spyridon Samothrakis, and Read Montague.
  Active inference and agency: optimal control without cost functions.
- <em>Biological cybernetics</em>, 106(8):523--541, 2012.
+ <em>Biological cybernetics</em>, 106:523--541, 2012.
 
 </td>
 </tr>
@@ -651,7 +835,7 @@ Karl Friston, Spyridon Samothrakis, and Read Montague.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2012coevolving">45</a>]
+[<a name="samothrakis2012coevolving">58</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, Simon Lucas, ThomasPhilip Runarsson, and David Robles.
@@ -666,7 +850,7 @@ Spyridon Samothrakis, Simon Lucas, ThomasPhilip Runarsson, and David Robles.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="browne2012survey">46</a>]
+[<a name="browne2012survey">59</a>]
 </td>
 <td class="bibtexitem">
 Cameron&nbsp;B Browne, Edward Powley, Daniel Whitehouse, Simon&nbsp;M Lucas, Peter&nbsp;I
@@ -682,7 +866,7 @@ Cameron&nbsp;B Browne, Edward Powley, Daniel Whitehouse, Simon&nbsp;M Lucas, Pet
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2011approximating">47</a>]
+[<a name="samothrakis2011approximating">60</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis and Simon Lucas.
@@ -697,7 +881,7 @@ Spyridon Samothrakis and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2011fast">48</a>]
+[<a name="samothrakis2011fast">61</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, David Robles, and Simon Lucas.
@@ -711,7 +895,7 @@ Spyridon Samothrakis, David Robles, and Simon Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2010planning">49</a>]
+[<a name="samothrakis2010planning">62</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis and Simon&nbsp;M Lucas.
@@ -725,7 +909,7 @@ Spyridon Samothrakis and Simon&nbsp;M Lucas.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="samothrakis2010uct">50</a>]
+[<a name="samothrakis2010uct">63</a>]
 </td>
 <td class="bibtexitem">
 Spyridon Samothrakis, David Robles, and Simon&nbsp;M Lucas.
