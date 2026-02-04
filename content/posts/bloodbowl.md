@@ -6,7 +6,7 @@ tags = ["games", "bloodbowl"]
 description = "...gentlemen's sports"
 +++
 
-Took an interest in bloodbowl lately (both the computer and the board game), and I am collecting and building teams. I've compiled the table below, with the help of Claude and chatGPT, data collected from the official NAF ratings: https://www.goonhammer.com/blood-bowl-state-of-the-competitive-meta-2025/. It's dubious whether or not the breakdowns make any sense or if imperial nobility and black orcs are bottom tier purely because they are part of the boxed set (and hence new players tend to be familiar and prefer them). I've put a pdf together [here](/blood_bowl_teams.pdf), with each team having a unique color, as I am not planning on paining them properly, at least not for the in-house friendly games I am planning. 
+Took an interest in bloodbowl lately (both the computer and the board game), and I am collecting and building teams. I've compiled the table below, with the help of Claude and chatGPT, data collected from the official NAF ratings: https://www.goonhammer.com/blood-bowl-state-of-the-competitive-meta-2025/. It's dubious whether or not the breakdowns make any sense or if imperial nobility and black orcs are bottom tier purely because they are part of the boxed set (and hence new players tend to be familiar and prefer them). I've put a pdf together [here](/blood_bowl_teams.pdf), with each team having a unique color, as I am not planning on paining them properly, at least not for the in-house friendly games I am planning.  
 
 ###  Blood Bowl 2025 Tier Logic (Based on Win %)
 
