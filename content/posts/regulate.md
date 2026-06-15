@@ -12,6 +12,6 @@ In one of the most bizarre turns, it seems certain vested interests, propped by 
 
 Or, from Yann LeCun: 
 
-{{< tweet user="ylecun" id="1719817019858493815" >}}
+{{< x user="ylecun" id="1719817019858493815" >}}
 
 

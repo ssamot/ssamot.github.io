@@ -11,4 +11,4 @@ One of the clearest tweet threads on why self-driving cars are hard is the one b
 
 
 
-{{< tweet user="ylecun" id="1559583211612622848" >}}
+{{< x user="ylecun" id="1559583211612622848" >}}

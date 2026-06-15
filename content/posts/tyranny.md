@@ -11,4 +11,4 @@ A problem I keep coming back to is one of the first things one notices when tryi
 What drives these latent variables though? While the inference is lacking, a narrative is put together "that makes sense". A fiction, based on other fictions that are based on top of other fictions -- a latent space you can reason/plan in. How does one come up with this latent space might prove to be a central theme in AI.
 
 
-{{< tweet user="ylecun" id="1577131592103133185" >}}
+{{< x user="ylecun" id="1577131592103133185" >}}
